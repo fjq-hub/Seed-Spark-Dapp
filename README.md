@@ -1,5 +1,7 @@
 # Seed-Spark-Dapp
 
+![Homepage](https://user-images.githubusercontent.com/67081093/233643010-21e54ec4-ede5-42ab-a2b9-b759dbd23364.png)
+
 FT5004 Project
 
 Seedspark is a next-generation solution built on the Ethereum blockchain, designed to revolutionize how project creators and contributors engage in fundraising activities. It will incorporate smart contract functionality to automate the donation process and issuance of utility tokens as rewards for contributors.
@@ -15,5 +17,4 @@ The contracts also made it possible for contributors to donate as well as retriv
 We have designed a utility token for rewarding and incentive purposes, which will bring potential revenue to the platform itself.
 
 
-![Homepage](https://user-images.githubusercontent.com/67081093/233643010-21e54ec4-ede5-42ab-a2b9-b759dbd23364.png)
 
